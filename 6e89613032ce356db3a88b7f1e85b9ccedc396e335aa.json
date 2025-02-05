@@ -44,13 +44,6 @@
                             "user_id": "",
                             "role_mapping": "",
                             "claim_mapping": {}
-                        },
-                        "": {
-                            "user_id": "",
-                            "role_mapping": "",
-                            "principal_identifier": "",
-                            "claim_mapping": {},
-                            "trusted": false
                         }
                     }
                 }
