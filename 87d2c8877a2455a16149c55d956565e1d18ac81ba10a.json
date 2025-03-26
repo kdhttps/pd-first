@@ -22,6 +22,19 @@
                     "description": "jans",
                     "openid_configuration_endpoint": "https://jans-ui.jans.io/.well-known/openid-configuration",
                     "tokens_metadata": {
+                        "accessTokens": {
+                            "trusted": true,
+                            "entity_type_name": "Jans::Access_token",
+                            "user_id": "sub",
+                            "token_id": "jti",
+                            "workload_id": "client_id",
+                            "claim_mapping": {},
+                            "required_claims": [],
+                            "role_mapping": "role",
+                            "principal_mapping": [
+                                "Jans::Workload"
+                            ]
+                        },
                         "id_tokens": {
                             "trusted": true,
                             "entity_type_name": "Jans::Id_token",
