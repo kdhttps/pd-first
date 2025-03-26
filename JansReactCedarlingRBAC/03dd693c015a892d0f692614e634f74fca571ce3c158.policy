@@ -1,4 +1,4 @@
-@id("AdminPerformAnyOperationOnResource")
+@id("ManagerPerformAnyOperationOnResource")
 permit(
   principal in Jans::Role::"manager",
   action,
