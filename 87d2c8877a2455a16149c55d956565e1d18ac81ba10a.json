@@ -5,11 +5,6 @@
             "name": "JansReactCedarlingRBAC",
             "description": "JansReactCedarlingRBAC",
             "policies": {
-                "03dd693c015a892d0f692614e634f74fca571ce3c158": {
-                    "description": "ManagerPerformAnyOperationOnResource",
-                    "creation_date": "2025-03-24T09:52:49.044004",
-                    "policy_content": "QGlkKCJNYW5hZ2VyUGVyZm9ybUFueU9wZXJhdGlvbk9uUmVzb3VyY2UiKQpwZXJtaXQoCiAgcHJpbmNpcGFsIGluIEphbnM6OlJvbGU6OiJtYW5hZ2VyIiwKICBhY3Rpb24sCiAgcmVzb3VyY2UKKTs="
-                },
                 "e48acf082aedc51165b1b2ebcc9f94dff36e3d086e56": {
                     "description": "AdminPerformAnyOperationOnResource",
                     "creation_date": "2025-03-26T06:22:11.222139",
