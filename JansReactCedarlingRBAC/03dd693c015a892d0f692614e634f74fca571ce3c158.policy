@@ -1,6 +1,6 @@
 @id("AdminPerformAnyOperationOnResource")
 permit(
-  principal in Jans::Role::"admin",
+  principal in Jans::Role::"manager",
   action,
   resource
 );
