@@ -1,7 +1,7 @@
-@id("ManagerReadShareApp")
+@id("ManagerCanAddUpdateViewTask")
 permit (
   principal in Jans::Role::"manager",
-  action in [Jans::Action::"Read",
-  Jans::Action::"Share"],
-  resource is Jans::Application
+  action in [Jans::Action::"Add",
+  Jans::Action::"Update", Jans::Action::"View"],
+  resource is Jans::Task
 );
