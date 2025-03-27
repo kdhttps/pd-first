@@ -3,5 +3,5 @@ permit (
   principal in Jans::Role::"manager",
   action in [Jans::Action::"Read",
   Jans::Action::"Share"],
-  resource == Jans::Application::"App"
+  resource is Jans::Application
 );
