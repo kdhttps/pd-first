@@ -13,7 +13,7 @@
                 "6b51f8244fe1fc3b273733f9d93def7f07080367fbc1": {
                     "description": "ManagerReadShareApp",
                     "creation_date": "2025-03-26T07:11:22.544420",
-                    "policy_content": "QGlkKCJNYW5hZ2VyUmVhZFNoYXJlQXBwIikKcGVybWl0ICgKICBwcmluY2lwYWwgaW4gSmFuczo6Um9sZTo6Im1hbmFnZXIiLAogIGFjdGlvbiBpbiBbSmFuczo6QWN0aW9uOjoiUmVhZCIsCiAgSmFuczo6QWN0aW9uOjoiU2hhcmUiXSwKICByZXNvdXJjZSA9PSBKYW5zOjpBcHBsaWNhdGlvbjo6IkFwcCIKKTs="
+                    "policy_content": "QGlkKCJNYW5hZ2VyUmVhZFNoYXJlQXBwIikKcGVybWl0ICgKICBwcmluY2lwYWwgaW4gSmFuczo6Um9sZTo6Im1hbmFnZXIiLAogIGFjdGlvbiBpbiBbSmFuczo6QWN0aW9uOjoiUmVhZCIsCiAgSmFuczo6QWN0aW9uOjoiU2hhcmUiXSwKICByZXNvdXJjZSBpcyBKYW5zOjpBcHBsaWNhdGlvbgopOw=="
                 }
             },
             "trusted_issuers": {
