@@ -22,37 +22,6 @@
                 }
             },
             "trusted_issuers": {
-                "03859bf2ea8d77b8c3b41586a698a10e0d3993c3ee4c": {
-                    "name": "jans",
-                    "description": "jans",
-                    "openid_configuration_endpoint": "https://jans-ui.jans.io/.well-known/openid-configuration",
-                    "tokens_metadata": {
-                        "access_token": {
-                            "trusted": true,
-                            "entity_type_name": "Jans::Access_token",
-                            "user_id": "sub",
-                            "token_id": "jti",
-                            "workload_id": "client_id",
-                            "claim_mapping": {},
-                            "required_claims": [],
-                            "role_mapping": "role",
-                            "principal_mapping": [
-                                "Jans::Workload"
-                            ]
-                        },
-                        "id_token": {
-                            "trusted": true,
-                            "entity_type_name": "Jans::id_token",
-                            "user_id": "sub",
-                            "token_id": "jti",
-                            "role_mapping": "role",
-                            "claim_mapping": {},
-                            "principal_mapping": [
-                                "Jans::User"
-                            ]
-                        }
-                    }
-                },
                 "05ecc78e8f87cc9104330aa8d069bca71a4fbbbfc324": {
                     "name": "jans",
                     "description": "jans",
