@@ -19,6 +19,11 @@
                     "description": "AuditorCanViewOnly",
                     "creation_date": "2025-05-08T14:02:30.505044",
                     "policy_content": "QGlkKCJBdWRpdG9yQ2FuVmlld09ubHkiKQpwZXJtaXQgKAogIHByaW5jaXBhbCBpbiBKYW5zOjpSb2xlOjoiQXVkaXRvciIsCiAgYWN0aW9uID09IEphbnM6OkFjdGlvbjo6IlZpZXciLAogIHJlc291cmNlCik7"
+                },
+                "76b3c40df72b3c30d8c0bd4fa832283b3078c7511b14": {
+                    "description": "OnlyAdminCanDelete",
+                    "creation_date": "2025-05-08T14:07:48.158381",
+                    "policy_content": "QGlkKCJPbmx5QWRtaW5DYW5EZWxldGUiKQpmb3JiaWQgKAogICAgcHJpbmNpcGFsLAogICAgYWN0aW9uID09IEphbnM6OkFjdGlvbjo6IkRlbGV0ZSIsCiAgICByZXNvdXJjZQopIHVubGVzcyB7IHByaW5jaXBhbCBpbiBKYW5zOjpSb2xlOjoiYWRtaW4iIH07Cg=="
                 }
             },
             "trusted_issuers": {},
