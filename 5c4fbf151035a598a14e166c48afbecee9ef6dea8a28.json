@@ -14,6 +14,11 @@
                     "description": "DeveloperCanCreateUpdateView",
                     "creation_date": "2025-05-08T14:00:39.773699",
                     "policy_content": "QGlkKCJEZXZlbG9wZXJDYW5DcmVhdGVVcGRhdGVWaWV3IikKcGVybWl0ICgKICAgIHByaW5jaXBhbCBpbiBKYW5zOjpSb2xlOjoiZGV2ZWxvcGVyIiwKICAgIGFjdGlvbiBpbiBbSmFuczo6QWN0aW9uOjoiQ3JlYXRlIiwgSmFuczo6QWN0aW9uOjoiVXBkYXRlIiwgSmFuczo6QWN0aW9uOjoiVmlldyJdLAogICAgcmVzb3VyY2UgaXMgSmFuczo6VmlydHVhbE1hY2hpbmUKKTs="
+                },
+                "ecf6c1ea7b9dc31508c8ddf663efc47267aed6dc1307": {
+                    "description": "",
+                    "creation_date": "2025-05-08T14:02:30.505044",
+                    "policy_content": "cGVybWl0ICgKICAgIHByaW5jaXBhbCBpbiBKYW5zOjpSb2xlOjoiQXVkaXRvciIsCiAgICBhY3Rpb24gPT0gSmFuczo6QWN0aW9uOjoiVmlldyIsCiAgICByZXNvdXJjZQopOwo="
                 }
             },
             "trusted_issuers": {},
