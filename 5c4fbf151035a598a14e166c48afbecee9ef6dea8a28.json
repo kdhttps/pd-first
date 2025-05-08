@@ -9,6 +9,11 @@
                     "description": "AdminCanDoAnything",
                     "creation_date": "2025-05-08T13:58:32.830285",
                     "policy_content": "QGlkKCJBZG1pbkNhbkRvQW55dGhpbmciKQpwZXJtaXQgKAogICAgcHJpbmNpcGFsIGluIEphbnM6OlJvbGU6OiJhZG1pbiIsCiAgICBhY3Rpb24sCiAgICByZXNvdXJjZQopOw=="
+                },
+                "5ca6481a91339db3f825d6ec029be21ca45e8c43e087": {
+                    "description": "DeveloperCanCreateUpdateView",
+                    "creation_date": "2025-05-08T14:00:39.773699",
+                    "policy_content": "QGlkKCJEZXZlbG9wZXJDYW5DcmVhdGVVcGRhdGVWaWV3IikKcGVybWl0ICgKICAgIHByaW5jaXBhbCBpbiBKYW5zOjpSb2xlOjoiZGV2ZWxvcGVyIiwKICAgIGFjdGlvbiBpbiBbSmFuczo6QWN0aW9uOjoiQ3JlYXRlIiwgSmFuczo6QWN0aW9uOjoiVXBkYXRlIiwgSmFuczo6QWN0aW9uOjoiVmlldyJdLAogICAgcmVzb3VyY2UgaXMgSmFuczo6VmlydHVhbE1hY2hpbmUKKTs="
                 }
             },
             "trusted_issuers": {},
