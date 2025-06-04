@@ -48,9 +48,9 @@
                             ]
                         },
                         "id_token": {
-                            "trusted": false,
+                            "trusted": true,
                             "entity_type_name": "Jans::id_token",
-                            "user_id": "sub",
+                            "user_id": "id",
                             "token_id": "jti",
                             "role_mapping": "role",
                             "claim_mapping": {},
