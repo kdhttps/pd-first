@@ -1,6 +1,0 @@
-@id("DeveloperCanCreateUpdateView")
-permit (
-    principal in Jans::Role::"developer",
-    action in [Jans::Action::"Create", Jans::Action::"Update", Jans::Action::"View"],
-    resource is Jans::VirtualMachine
-);
