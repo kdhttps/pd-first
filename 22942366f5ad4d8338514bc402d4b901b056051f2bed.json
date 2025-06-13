@@ -13,9 +13,9 @@
             },
             "trusted_issuers": {
                 "6c87383b0d36b4f3d192956f60c1f941d623baaf0bbc": {
-                    "name": "test",
-                    "description": "test",
-                    "openid_configuration_endpoint": "https://test.com",
+                    "name": "jans",
+                    "description": "jans",
+                    "openid_configuration_endpoint": "https://jans-ui.jans.io/.well-known/openid-configuration",
                     "token_metadata": {
                         "access_token": {
                             "trusted": true,
