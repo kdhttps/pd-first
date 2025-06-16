@@ -15,11 +15,6 @@
                     "creation_date": "2025-06-16T12:51:42.647583",
                     "policy_content": "QGlkKCJEZXZlbG9wZXJDYW5DcmVhdGVVcGRhdGVWaWV3IikKcGVybWl0ICgKICBwcmluY2lwYWwgaW4gSmFuczo6Um9sZTo6ImRldmVsb3BlciIsCiAgYWN0aW9uIGluIFtKYW5zOjpBY3Rpb246OiJDcmVhdGUiLAogIEphbnM6OkFjdGlvbjo6IlVwZGF0ZSIsCiAgSmFuczo6QWN0aW9uOjoiVmlldyJdLAogIHJlc291cmNlIGlzIEphbnM6OlZpcnR1YWxNYWNoaW5lCik7Cg=="
                 },
-                "b0c572c427cc3664cfe15afa6d56f6f9db12843fa4b0": {
-                    "description": "AuditorCanViewOnly",
-                    "creation_date": "2025-06-16T12:51:56.732121",
-                    "policy_content": "QGlkKCJBdWRpdG9yQ2FuVmlld09ubHkiKQpwZXJtaXQgKAogIHByaW5jaXBhbCBpbiBKYW5zOjpSb2xlOjoiQXVkaXRvciIsCiAgYWN0aW9uID09IEphbnM6OkFjdGlvbjo6IlZpZXciLAogIHJlc291cmNlCik7Cg=="
-                },
                 "2f32a97be14003ffe8aea292a01502c3198f2136eaa9": {
                     "description": "AuditorCanViewOnly",
                     "creation_date": "2025-06-16T12:52:32.933311",
