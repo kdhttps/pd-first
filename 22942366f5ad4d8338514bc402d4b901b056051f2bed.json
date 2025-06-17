@@ -11,9 +11,9 @@
                     "policy_content": "QGlkKCJBZG1pbkNhbkRvQW55dGhpbmciKQpwZXJtaXQgKAogIHByaW5jaXBhbCBpbiBKYW5zOjpSb2xlOjoiYWRtaW4iLAogIGFjdGlvbiwKICByZXNvdXJjZQopOw=="
                 },
                 "75cfd4c8e941b5ddf17d38abae5b8e8286240e1cec79": {
-                    "description": "DeveloperCanCreateUpdateView",
+                    "description": "DeveloperCanUpdateView",
                     "creation_date": "2025-06-16T12:51:42.647583",
-                    "policy_content": "QGlkKCJEZXZlbG9wZXJDYW5DcmVhdGVVcGRhdGVWaWV3IikKcGVybWl0ICgKICBwcmluY2lwYWwgaW4gSmFuczo6Um9sZTo6ImRldmVsb3BlciIsCiAgYWN0aW9uIGluIFtKYW5zOjpBY3Rpb246OiJDcmVhdGUiLAogIEphbnM6OkFjdGlvbjo6IlVwZGF0ZSIsCiAgSmFuczo6QWN0aW9uOjoiVmlldyJdLAogIHJlc291cmNlIGlzIEphbnM6OlZpcnR1YWxNYWNoaW5lCik7Cg=="
+                    "policy_content": "QGlkKCJEZXZlbG9wZXJDYW5VcGRhdGVWaWV3IikKcGVybWl0ICgKICBwcmluY2lwYWwgaW4gSmFuczo6Um9sZTo6ImRldmVsb3BlciIsCiAgYWN0aW9uIGluIFtKYW5zOjpBY3Rpb246OiJVcGRhdGUiLAogIEphbnM6OkFjdGlvbjo6IlZpZXciXSwKICByZXNvdXJjZSBpcyBKYW5zOjpWaXJ0dWFsTWFjaGluZQopOw=="
                 },
                 "2f32a97be14003ffe8aea292a01502c3198f2136eaa9": {
                     "description": "AuditorCanViewOnly",
