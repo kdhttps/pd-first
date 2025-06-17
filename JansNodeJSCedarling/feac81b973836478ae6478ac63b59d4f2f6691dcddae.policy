@@ -1,4 +1,4 @@
-@id("LimitDeveloperAccess")
+@id("LimitDeveloperCreateAccess")
 permit (
   principal in Jans::Role::"developer",
   action in [Jans::Action::"Create"],
