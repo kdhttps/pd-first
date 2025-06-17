@@ -1,0 +1,8 @@
+@id("LimitDeveloperAccess")
+permit (
+  principal in Jans::Role::"developer",
+  action in [Jans::Action::"Create"],
+  resource is Jans::VirtualMachine
+) when {
+  principal has email
+};
