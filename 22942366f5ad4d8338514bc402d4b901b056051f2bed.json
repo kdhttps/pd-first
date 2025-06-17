@@ -28,7 +28,7 @@
                 "feac81b973836478ae6478ac63b59d4f2f6691dcddae": {
                     "description": "LimitDeveloperAccess",
                     "creation_date": "2025-06-17T09:20:54.680304",
-                    "policy_content": "QGlkKCJMaW1pdERldmVsb3BlckFjY2VzcyIpCnBlcm1pdCAoCiAgcHJpbmNpcGFsIGluIEphbnM6OlJvbGU6OiJkZXZlbG9wZXIiLAogIGFjdGlvbiBpbiBbSmFuczo6QWN0aW9uOjoiQ3JlYXRlIl0sCiAgcmVzb3VyY2UgaXMgSmFuczo6VmlydHVhbE1hY2hpbmUKKQp3aGVuIHsKICBwcmluY2lwYWwgaGFzIGlkX3Rva2VuLmxpbWl0Cn07"
+                    "policy_content": "QGlkKCJMaW1pdERldmVsb3BlckFjY2VzcyIpCnBlcm1pdCAoCiAgcHJpbmNpcGFsIGluIEphbnM6OlJvbGU6OiJkZXZlbG9wZXIiLAogIGFjdGlvbiBpbiBbSmFuczo6QWN0aW9uOjoiQ3JlYXRlIl0sCiAgcmVzb3VyY2UgaXMgSmFuczo6VmlydHVhbE1hY2hpbmUKKQp3aGVuIHsKICBwcmluY2lwYWwgaGFzIGlkX3Rva2VuLmxpbWl0ICYmCiAgcHJpbmNpcGFsLmlkX3Rva2VuLmxpbWl0ID4gMAp9Ow=="
                 }
             },
             "trusted_issuers": {
