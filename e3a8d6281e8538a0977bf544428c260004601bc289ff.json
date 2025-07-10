@@ -9,6 +9,11 @@
                     "description": "AdminCanDoAnything",
                     "creation_date": "2025-07-10T09:03:40.812880",
                     "policy_content": "QGlkKCJBZG1pbkNhbkRvQW55dGhpbmciKQpwZXJtaXQgKAogICAgcHJpbmNpcGFsIGluIEphbnM6OlJvbGU6OiJBZG1pbiIsCiAgICBhY3Rpb24sCiAgICByZXNvdXJjZQopOwo="
+                },
+                "f1fd1125999b77fb98dd968332849ee8aac34dd6d7a2": {
+                    "description": "EditorCanEditViewArticleNotCreate",
+                    "creation_date": "2025-07-10T09:04:47.829204",
+                    "policy_content": "QGlkKCJFZGl0b3JDYW5FZGl0Vmlld0FydGljbGVOb3RDcmVhdGUiKQpwZXJtaXQgKAogICAgcHJpbmNpcGFsIGluIEphbnM6OlJvbGU6OiJFZGl0b3IiLAogICAgYWN0aW9uIGluIFtKYW5zOjpBY3Rpb246OiJFZGl0IiwgSmFuczo6QWN0aW9uOjoiVmlldyJdLAogICAgcmVzb3VyY2UgaXMgSmFuczo6QXJ0aWNsZQopOw=="
                 }
             },
             "trusted_issuers": {},
