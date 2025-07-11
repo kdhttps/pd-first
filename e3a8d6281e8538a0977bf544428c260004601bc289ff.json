@@ -14,6 +14,11 @@
                     "description": "EditorCanEditViewArticleNotCreate",
                     "creation_date": "2025-07-10T09:04:47.829204",
                     "policy_content": "QGlkKCJFZGl0b3JDYW5FZGl0Vmlld0FydGljbGVOb3RDcmVhdGUiKQpwZXJtaXQgKAogICAgcHJpbmNpcGFsIGluIEphbnM6OlJvbGU6OiJFZGl0b3IiLAogICAgYWN0aW9uIGluIFtKYW5zOjpBY3Rpb246OiJFZGl0IiwgSmFuczo6QWN0aW9uOjoiVmlldyJdLAogICAgcmVzb3VyY2UgaXMgSmFuczo6QXJ0aWNsZQopOw=="
+                },
+                "da43b2857e19e56f02526f0dc371a375ce8d372f5877": {
+                    "description": "AuthorCanCreateEditDeleteView",
+                    "creation_date": "2025-07-11T13:10:58.218222",
+                    "policy_content": "QGlkKCJBdXRob3JDYW5DcmVhdGVFZGl0RGVsZXRlVmlldyIpCnBlcm1pdCAoCiAgICBwcmluY2lwYWwgaW4gSmFuczo6Um9sZTo6IkF1dGhvciIsCiAgICBhY3Rpb24gaW4gW0phbnM6OkFjdGlvbjo6IkNyZWF0ZSIsIEphbnM6OkFjdGlvbjo6IkVkaXQiLCBKYW5zOjpBY3Rpb246OiJEZWxldGUiLCBKYW5zOjpBY3Rpb246OiJWaWV3Il0sCiAgICByZXNvdXJjZSBpcyBKYW5zOjpBcnRpY2xlCik7Cg=="
                 }
             },
             "trusted_issuers": {},
