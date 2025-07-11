@@ -19,6 +19,11 @@
                     "description": "AuthorCanCreateEditDeleteView",
                     "creation_date": "2025-07-11T13:10:58.218222",
                     "policy_content": "QGlkKCJBdXRob3JDYW5DcmVhdGVFZGl0RGVsZXRlVmlldyIpCnBlcm1pdCAoCiAgICBwcmluY2lwYWwgaW4gSmFuczo6Um9sZTo6IkF1dGhvciIsCiAgICBhY3Rpb24gaW4gW0phbnM6OkFjdGlvbjo6IkNyZWF0ZSIsIEphbnM6OkFjdGlvbjo6IkVkaXQiLCBKYW5zOjpBY3Rpb246OiJEZWxldGUiLCBKYW5zOjpBY3Rpb246OiJWaWV3Il0sCiAgICByZXNvdXJjZSBpcyBKYW5zOjpBcnRpY2xlCik7Cg=="
+                },
+                "88b48857aecd827998b3b1e8c58e24ff714a8cb43a5d": {
+                    "description": "ReadersCanOnlyView",
+                    "creation_date": "2025-07-11T13:11:23.572755",
+                    "policy_content": "QGlkKCJSZWFkZXJzQ2FuT25seVZpZXciKQpwZXJtaXQgKAogICAgcHJpbmNpcGFsIGluIEphbnM6OlJvbGU6OiJSZWFkZXIiLAogICAgYWN0aW9uID09IEphbnM6OkFjdGlvbjo6IlZpZXciLAogICAgcmVzb3VyY2UgaXMgSmFuczo6QXJ0aWNsZQopOwo="
                 }
             },
             "trusted_issuers": {},
