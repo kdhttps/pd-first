@@ -9,6 +9,11 @@
                     "description": "AdminPerformAnyOperationOnResource",
                     "creation_date": "2025-08-13T09:02:59.576072",
                     "policy_content": "QGlkKCJBZG1pblBlcmZvcm1BbnlPcGVyYXRpb25PblJlc291cmNlIikKcGVybWl0KAogIHByaW5jaXBhbCBpbiBKYW5zOjpSb2xlOjoiYWRtaW4iLAogIGFjdGlvbiwKICByZXNvdXJjZQopOw=="
+                },
+                "461de0f2b10eb12ed80889afb5c1712f59aa78f0e074": {
+                    "description": "ManagerCanAddUpdateViewTask",
+                    "creation_date": "2025-08-13T09:14:10.892719",
+                    "policy_content": "QGlkKCJNYW5hZ2VyQ2FuQWRkVXBkYXRlVmlld1Rhc2siKQpwZXJtaXQgKAogIHByaW5jaXBhbCBpbiBKYW5zOjpSb2xlOjoibWFuYWdlciIsCiAgYWN0aW9uIGluIFtKYW5zOjpBY3Rpb246OiJBZGQiLAogIEphbnM6OkFjdGlvbjo6IlVwZGF0ZSIsCiAgSmFuczo6QWN0aW9uOjoiVmlldyJdLAogIHJlc291cmNlIGlzIEphbnM6OlRhc2sKKTs="
                 }
             },
             "trusted_issuers": {},
