@@ -34,14 +34,7 @@
                             "token_id": "jti",
                             "workload_id": "rp_id",
                             "claim_mapping": {},
-                            "required_claims": [
-                                "jti",
-                                "iss",
-                                "aud",
-                                "sub",
-                                "exp",
-                                "nbf"
-                            ],
+                            "required_claims": [],
                             "role_mapping": "role",
                             "principal_mapping": [
                                 "Jans::Workload"
@@ -57,23 +50,6 @@
                             "principal_mapping": [
                                 "Jans::User"
                             ]
-                        },
-                        "userinfo_token": {
-                            "trusted": false,
-                            "entity_type_name": "Jans::Userinfo_token",
-                            "user_id": "sub",
-                            "token_id": "jti",
-                            "role_mapping": "role",
-                            "claim_mapping": {},
-                            "principal_mapping": [
-                                "Jans::User"
-                            ]
-                        },
-                        "tx_token": {
-                            "trusted": false,
-                            "entity_type_name": "Jans::Access_token",
-                            "user_id": "sub",
-                            "token_id": "jti"
                         }
                     }
                 }
