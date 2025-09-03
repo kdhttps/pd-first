@@ -28,7 +28,7 @@
                 "4f83c5905a0ff79b48209446acbdb4e2932b683b7215": {
                     "description": "BasicPlanAccessAIConversationTool",
                     "creation_date": "2025-07-11T13:13:20.767700",
-                    "policy_content": "QGlkKCJCYXNpY1BsYW5BY2Nlc3NBSUNvbnZlcnNhdGlvblRvb2wiKQpwZXJtaXQgKAogICAgcHJpbmNpcGFsLAogICAgYWN0aW9uIGluIFtKYW5zOjpBY3Rpb246OiJDb252ZXJzYXRpb24iXSwKICAgIHJlc291cmNlIGlzIEphbnM6OkFJdG9vbHMKKSB3aGVuIHsKICAgIHByaW5jaXBhbC5wbGFuID09ICJiYXNpYyIgICAgCn07Cg=="
+                    "policy_content": "QGlkKCJCYXNpY1BsYW5BY2Nlc3NBSUNvbnZlcnNhdGlvblRvb2wiKQpwZXJtaXQgKAogIHByaW5jaXBhbCwKICBhY3Rpb24gaW4gW0phbnM6OkFjdGlvbjo6IkNvbnZlcnNhdGlvbiJdLAogIHJlc291cmNlIGlzIEphbnM6OkFJdG9vbHMKKQp3aGVuIHsKICAgIHByaW5jaXBhbC5wbGFuID09ICJiYXNpYyIKfTs="
                 },
                 "4d48d467324db51ba70f00cfcd1a5471e61fd0816214": {
                     "description": "PremiumPlanAccessAIGenerateImageVideoTool",
