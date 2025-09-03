@@ -1,8 +1,9 @@
 @id("BasicPlanAccessAIConversationTool")
 permit (
-    principal,
-    action in [Jans::Action::"Conversation"],
-    resource is Jans::AItools
-) when {
-    principal.plan == "basic"    
+  principal,
+  action in [Jans::Action::"Conversation"],
+  resource is Jans::AItools
+)
+when {
+    principal.plan == "basic"
 };
