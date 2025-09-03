@@ -1,6 +1,6 @@
 @id("AdminCanDoAnything")
 permit (
-    principal in Jans::Role::"Admin",
-    action,
-    resource
+  principal in Jans::Role::"Admin",
+  action,
+  resource
 );
