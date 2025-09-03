@@ -23,7 +23,7 @@
                 "88b48857aecd827998b3b1e8c58e24ff714a8cb43a5d": {
                     "description": "ReadersCanOnlyView",
                     "creation_date": "2025-07-11T13:11:23.572755",
-                    "policy_content": "QGlkKCJSZWFkZXJzQ2FuT25seVZpZXciKQpwZXJtaXQgKAogICAgcHJpbmNpcGFsIGluIEphbnM6OlJvbGU6OiJSZWFkZXIiLAogICAgYWN0aW9uID09IEphbnM6OkFjdGlvbjo6IlZpZXciLAogICAgcmVzb3VyY2UgaXMgSmFuczo6QXJ0aWNsZQopOwo="
+                    "policy_content": "QGlkKCJSZWFkZXJzQ2FuT25seVZpZXciKQpwZXJtaXQgKAogIHByaW5jaXBhbCBpbiBKYW5zOjpSb2xlOjoiUmVhZGVyIiwKICBhY3Rpb24gPT0gSmFuczo6QWN0aW9uOjoiVmlldyIsCiAgcmVzb3VyY2UgaXMgSmFuczo6QXJ0aWNsZQopOw=="
                 },
                 "4f83c5905a0ff79b48209446acbdb4e2932b683b7215": {
                     "description": "BasicPlanAccessAIConversationTool",
