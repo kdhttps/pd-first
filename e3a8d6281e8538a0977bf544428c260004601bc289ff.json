@@ -8,7 +8,7 @@
                 "269dc97ad8ac3d45b2b332e575b3a0f9cad45b73a2cf": {
                     "description": "AdminCanDoAnything",
                     "creation_date": "2025-07-10T09:03:40.812880",
-                    "policy_content": "QGlkKCJBZG1pbkNhbkRvQW55dGhpbmciKQpwZXJtaXQgKAogICAgcHJpbmNpcGFsIGluIEphbnM6OlJvbGU6OiJBZG1pbiIsCiAgICBhY3Rpb24sCiAgICByZXNvdXJjZQopOwo="
+                    "policy_content": "QGlkKCJBZG1pbkNhbkRvQW55dGhpbmciKQpwZXJtaXQgKAogIHByaW5jaXBhbCBpbiBKYW5zOjpSb2xlOjoiQWRtaW4iLAogIGFjdGlvbiwKICByZXNvdXJjZQopOw=="
                 },
                 "f1fd1125999b77fb98dd968332849ee8aac34dd6d7a2": {
                     "description": "EditorCanEditViewArticleNotCreate",
