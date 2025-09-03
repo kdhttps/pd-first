@@ -13,7 +13,7 @@
                 "f1fd1125999b77fb98dd968332849ee8aac34dd6d7a2": {
                     "description": "EditorCanEditViewArticleNotCreate",
                     "creation_date": "2025-07-10T09:04:47.829204",
-                    "policy_content": "QGlkKCJFZGl0b3JDYW5FZGl0Vmlld0FydGljbGVOb3RDcmVhdGUiKQpwZXJtaXQgKAogICAgcHJpbmNpcGFsIGluIEphbnM6OlJvbGU6OiJFZGl0b3IiLAogICAgYWN0aW9uIGluIFtKYW5zOjpBY3Rpb246OiJFZGl0IiwgSmFuczo6QWN0aW9uOjoiVmlldyJdLAogICAgcmVzb3VyY2UgaXMgSmFuczo6QXJ0aWNsZQopOw=="
+                    "policy_content": "QGlkKCJFZGl0b3JDYW5FZGl0Vmlld0FydGljbGVOb3RDcmVhdGUiKQpwZXJtaXQgKAogIHByaW5jaXBhbCBpbiBKYW5zOjpSb2xlOjoiRWRpdG9yIiwKICBhY3Rpb24gaW4gW0phbnM6OkFjdGlvbjo6IkVkaXQiLAogIEphbnM6OkFjdGlvbjo6IlZpZXciXSwKICByZXNvdXJjZSBpcyBKYW5zOjpBcnRpY2xlCik7"
                 },
                 "da43b2857e19e56f02526f0dc371a375ce8d372f5877": {
                     "description": "AuthorCanCreateEditDeleteView",
