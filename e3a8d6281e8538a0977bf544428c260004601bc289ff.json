@@ -33,7 +33,7 @@
                 "4d48d467324db51ba70f00cfcd1a5471e61fd0816214": {
                     "description": "PremiumPlanAccessAIGenerateImageVideoTool",
                     "creation_date": "2025-07-11T13:13:58.447781",
-                    "policy_content": "QGlkKCJQcmVtaXVtUGxhbkFjY2Vzc0FJR2VuZXJhdGVJbWFnZVZpZGVvVG9vbCIpCnBlcm1pdCAoCiAgICBwcmluY2lwYWwsCiAgICBhY3Rpb24gaW4gW0phbnM6OkFjdGlvbjo6IkdlbmVyYXRlSW1hZ2UiLCBKYW5zOjpBY3Rpb246OiJHZW5lcmF0ZVZpZGVvIl0sCiAgICByZXNvdXJjZSBpcyBKYW5zOjpBSXRvb2xzCikgd2hlbiB7CiAgICBwcmluY2lwYWwucGxhbiA9PSAicHJlbWl1bSIgICAgCn07Cg=="
+                    "policy_content": "QGlkKCJQcmVtaXVtUGxhbkFjY2Vzc0FJR2VuZXJhdGVJbWFnZVZpZGVvVG9vbCIpCnBlcm1pdCAoCiAgcHJpbmNpcGFsLAogIGFjdGlvbiBpbiBbSmFuczo6QWN0aW9uOjoiR2VuZXJhdGVJbWFnZSIsCiAgSmFuczo6QWN0aW9uOjoiR2VuZXJhdGVWaWRlbyJdLAogIHJlc291cmNlIGlzIEphbnM6OkFJdG9vbHMKKQp3aGVuIHsKICAgIHByaW5jaXBhbC5wbGFuID09ICJwcmVtaXVtIgp9Ow=="
                 }
             },
             "trusted_issuers": {
