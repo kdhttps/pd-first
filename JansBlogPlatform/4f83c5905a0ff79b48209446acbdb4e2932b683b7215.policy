@@ -5,5 +5,5 @@ permit (
   resource is Jans::AItools
 )
 when {
-    principal.plan == "basic"
+    principal has plan && principal.plan == "basic"
 };
