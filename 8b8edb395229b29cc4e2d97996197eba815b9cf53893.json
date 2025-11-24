@@ -7,7 +7,7 @@
             "policies": {},
             "trusted_issuers": {
                 "1b3f7b4d8d8d7c6135d35a6457a17903d5ef4938c3a3": {
-                    "name": "Jans",
+                    "name": "auth0",
                     "description": "auth0 issuer",
                     "openid_configuration_endpoint": "https://dev-1e737fn2gji0j3fe.us.auth0.com/.well-known/openid-configuration",
                     "token_metadata": {
