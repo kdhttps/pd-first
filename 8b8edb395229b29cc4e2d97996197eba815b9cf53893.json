@@ -4,7 +4,13 @@
         "8b8edb395229b29cc4e2d97996197eba815b9cf53893": {
             "name": "Auth0ReactCedarlingRBAC",
             "description": "Auth0 React cedarling",
-            "policies": {},
+            "policies": {
+                "6747c14ce754c014a8dff2a4cb81b7f8a36e7ee7a586": {
+                    "description": "AdminPerformAnyOperationOnResource",
+                    "creation_date": "2025-11-24T10:14:46.958389",
+                    "policy_content": "QGlkKCJBZG1pblBlcmZvcm1BbnlPcGVyYXRpb25PblJlc291cmNlIikKcGVybWl0KAogIHByaW5jaXBhbCBpbiBKYW5zOjpSb2xlOjoiYWRtaW4iLAogIGFjdGlvbiwKICByZXNvdXJjZQopOwo="
+                }
+            },
             "trusted_issuers": {
                 "1b3f7b4d8d8d7c6135d35a6457a17903d5ef4938c3a3": {
                     "name": "Jans",
